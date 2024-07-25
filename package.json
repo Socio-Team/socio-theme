@@ -1,0 +1,53 @@
+{
+  "name": "socio-theme",
+  "displayName": "Socio Theme",
+  "description": "A Visual Studio Code theme for programmers and developers",
+  "version": "0.0.1",
+  "publisher": "Clover",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/socio-team/socio-theme"
+  },
+  "license":"MIT",
+  "keywords": [
+    "theme",
+    "dark theme",
+    "aaquib ali",
+    "socio team",
+    "socio",
+    "socio theme",
+    "blue",
+    "dark blue",
+    "cyan"
+  ],
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "icon": "images/icon/logo.png",
+  "galleryBanner": {
+    "color": "58C9D4",
+    "theme": "dark"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Socio Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/socio-color-theme.json"
+      }
+    ]
+  },
+  "files": [
+    "README.md",
+    "themes",
+    "themes/*",
+    "themes/socio-color-theme.json",
+    "images/icon/logo.png",
+    "package.json",
+    "changelog.md",
+    ".vscodeignore"
+  ]
+}
