@@ -9,7 +9,7 @@
     <p>Have suggestions in mind? <a href="https://github.com/socio-team/socio-theme/issues">Suggest here!
 </div>
 
-[![preview](images/preview.jpg)](https://vscode.dev/editor/theme/socioteam.socio-theme)
+[![preview](images/preview.png)](https://vscode.dev/editor/theme/socioteam.socio-theme)
 
 ## 📥 Installation
 
